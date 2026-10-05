@@ -69,7 +69,6 @@ categories must not be added together.
 | `gadm41_DNK_1.json` | Regional map backdrop |
 | `dk.json` | Settlement coordinates for municipal markers |
 | `denmark_cpi_2014-2023.csv` | Unmodified Statistics Denmark PRIS8 annual CPI response |
-| `data_sources/` | Archived source comparison, API requests, metadata, and checksums |
 | `requirements.txt` | Versions used to execute and validate the notebook |
 
 Keep these files and the `data_sources/` directory together. No network requests
